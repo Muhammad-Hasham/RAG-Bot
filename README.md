@@ -2,7 +2,7 @@
 
 ## Overview
 
-This report provides a comprehensive overview of the RAG Bot developed by Muhammad Hasham Ul Haq. The bot is designed to recommend Urdu stories based on user queries using a combination of a pre-trained DistilBERT model, mini-Language Models (mini-LM), and Annoy Index.
+The bot is designed to recommend Urdu stories based on user queries using a combination of a pre-trained DistilBERT model, mini-Language Models (mini-LM), and Annoy Index.
 
 ## Data Preprocessing
 
